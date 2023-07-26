@@ -52,6 +52,7 @@
     "brackets-red": { "iconPath": "./icons/files/brackets-red.svg" },
 
     "gear": { "iconPath": "./icons/files/gear.svg" },
+    "shadcn": { "iconPath": "./icons/files/shadcn.svg" },
     "license": { "iconPath": "./icons/files/license.svg" },
     "image": { "iconPath": "./icons/files/image.svg" },
     "git": { "iconPath": "./icons/files/git.svg" },

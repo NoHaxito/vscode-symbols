@@ -1,9 +1,9 @@
 {
-  "name": "symbols",
-  "displayName": "Symbols",
+  "name": "@sihaxito/icons",
+  "displayName": "Icons",
   "description": "A simple file icon theme for VS Code",
-  "version": "0.0.12",
-  "publisher": "miguelsolorio",
+  "version": "0.0.1",
+  "publisher": "nohaxito",
   "icon": "symbols.png",
   "preview": true,
   "main": "./src/extension.js",
@@ -20,16 +20,6 @@
     "file-icon-theme",
     "file icons"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/misolori/vscode-symbols.git"
-  },
-  "bugs": {
-    "url": "https://github.com/misolori/vscode-symbols/issues"
-  },
-  "author": {
-    "name": "Miguel Solorio"
-  },
   "capabilities": {
     "untrustedWorkspaces": {
       "supported": true

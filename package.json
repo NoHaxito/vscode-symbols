@@ -2,7 +2,7 @@
   "name": "@sihaxito/icons",
   "displayName": "Icons",
   "description": "A simple file icon theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "publisher": "nohaxito",
   "icon": "symbols.png",
   "preview": true,

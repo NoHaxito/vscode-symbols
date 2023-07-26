@@ -1,8 +1,8 @@
 {
-  "name": "@sihaxito/icons",
-  "displayName": "Icons",
+  "name": "nohaxito-icons",
+  "displayName": "NoHaxito Icons",
   "description": "A simple file icon theme for VS Code",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "publisher": "nohaxito",
   "icon": "symbols.png",
   "preview": true,
@@ -29,6 +29,10 @@
   "activationEvents": [
     "onStartupFinished"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoHaxito/vscode-symbols.git"
+  },
   "contributes": {
     "iconThemes": [
       {
